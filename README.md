@@ -1,0 +1,2 @@
+# manifest-file-doc
+manifestファイルについてまとめました
